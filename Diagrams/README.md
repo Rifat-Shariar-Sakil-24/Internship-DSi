@@ -1,4 +1,12 @@
-# **E-Commerce Bidding Website**
+# **E-Commerce Bidding Website Swimlane Diagram**
+
+---
+
+## **Swimlane Diagram**
+
+You can view the Swimlane Diagram using the link below:
+
+[Swimlane Diagram](https://drive.google.com/drive/folders/1LT6sgT9XzJNABC0UXagtU5cSp03wLWLt)
 
 ---
 
